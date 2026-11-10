@@ -1,0 +1,23 @@
+{
+  "base_url": "https://github.com/SchockTop/sam3-weights/releases/download/v1/",
+  "files": [
+    {
+      "path": "sam3/sam3.pt",
+      "size": 3450062241,
+      "sha256": "9999e2341ceef5e136daa386eecb55cb414446a00ac2b55eb2dfd2f7c3cf8c9e",
+      "parts": [
+        "sam3.sam3.pt.part00",
+        "sam3.sam3.pt.part01"
+      ]
+    },
+    {
+      "path": "sam3-hf/model.safetensors",
+      "size": 3361687608,
+      "sha256": "fb88a9ae6053003f1b7e737170cf2b2158e5cad5ba29ec529c83f25393258774",
+      "parts": [
+        "sam3-hf.model.safetensors.part00",
+        "sam3-hf.model.safetensors.part01"
+      ]
+    }
+  ]
+}
